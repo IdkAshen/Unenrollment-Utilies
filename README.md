@@ -10,3 +10,6 @@ A list of ext-remover's and unenrollment methods to unenrollment a enrolled chro
 > [!IMPORTANT]
 > PICK YOUR BOARDNAME ZIP FILE, YOU CAN FIND YOUR BOARDNAME BY GOING TO: Chrome://version
 
+> [!IMPORTANT]
+> YOUR SCREEN SHOULD LOOK LIKE THIS
+> <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/1a139aa2-d693-4bc3-a331-555195b82d9b" />
