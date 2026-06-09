@@ -14,7 +14,7 @@ A list of ext-remover's and unenrollment methods to unenrollment a enrolled chro
 > YOUR SCREEN SHOULD LOOK LIKE THIS
 > <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/1a139aa2-d693-4bc3-a331-555195b82d9b" />
 > THEN HEAD BACK OVER TO HERE:
-> <img width="1135" height="680" alt="image" src="https://github.com/user-attachments/assets/0bd3e11b-9a4b-4b21-8043-2f3dff8bfbfb" />
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/16fc0e91-7c8d-480d-a196-9ea3a04c6109" />
 > AND HIT CTRL + F AND SEARCH FOR YOUR CHROMEBOOK BOARDNAME.
 
 
