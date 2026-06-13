@@ -1,5 +1,5 @@
 # Unenrollment-Utilies
-A list of ext-remover's and unenrollment methods to unenrollment a enrolled chromebook.
+A list of ext-remover's and unenrollment methods to unenroll a enrolled chromebook.
 > [!IMPORTANT]
 > I AM NOT RESPONSIBLE FOR ANY TROUBLE YOU GET IN FOR USING THIS REPOSITORY, SO YEA,FIRST HEAD OVER TO HERE: https://dl.snerill.org/ and select which method you wanna do.
 > YOUR SCREEN SHOULD LOOK LIKE THIS:
